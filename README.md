@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **StudyNotion Web App**
 
-- 📫How to reach me: [samyakthmalgatti200@gmail.com](samyakthmalgatti200@gmail.com)
+- 📫How to reach me: [samyakthmalgatti200@gmail.com](samyakthmalgatti2002@gmail.com)
 
 - 💬 Ask me about **ReactJs**
 
