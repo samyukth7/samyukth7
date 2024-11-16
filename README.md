@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Mongo DB and ExpressJS**
 
-- 🔭 I’m currently working on **StudyNotion Web App**
+- 🔭 I’m currently working on **StudyNotion App**
 
 - 📫How to reach me: [samyakthmalgatti2002@gmail.com](samyakthmalgatti2002@gmail.com)
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **C++ Machine learning
 
 - ⚡ In my free time, I read tech articles and books.
 
