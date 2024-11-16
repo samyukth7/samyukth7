@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer and AI ML enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 💻 Proficient in **ReactJs, JavaScript and AI ML.**
+- 💻 Proficient in **C++, Python, ReactJs, JavaScript and AI ML.**
 
 - 🌱 I’m currently learning **Mongo DB and ExpressJS**
 
@@ -10,7 +10,7 @@
 
 - 📫How to reach me: [samyakthmalgatti2002@gmail.com](samyakthmalgatti2002@gmail.com)
 
-- 💬 Ask me about **C++ Machine learning
+- 💬 Ask me about **C++, Machine learning**
 
 - ⚡ In my free time, I read tech articles and books.
 
